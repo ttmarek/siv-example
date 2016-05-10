@@ -1,0 +1,6 @@
+{
+  "name": "example",
+  "description": "A SIV extension for testing.",
+  "version": "0.0.0",
+  "private": true
+}
